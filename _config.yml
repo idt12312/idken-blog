@@ -149,5 +149,5 @@ kramdown:
         input: GFM
         syntax_highlighter: rouge
 gems: [jekyll-paginate]
-paginate: 5
-excerpt_separator: <!-- more -->
+paginate: 10
+excerpt_separator: "\n\n"
