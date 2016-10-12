@@ -159,8 +159,9 @@
 
 .post-link {
 	display: block;
-	font-size: 28px;//42px;
+	font-size: 26px;
 }
+
 
 
 
@@ -168,7 +169,7 @@
  * Posts
  */
 .post-header {
-	margin-bottom: $spacing-unit;
+	margin-bottom: 0px;
 	time{
 		margin-left: 0px;
 		font-style: normal;
@@ -177,11 +178,20 @@
 }
 
 .post-title {
-	font-size: 28px;
+	font-size: 32px;
 	letter-spacing: -1px;
 	line-height: 1;
 }
 
+.post-thumb {
+	width: 90px;
+	float:left;
+    border-radius: 15px;
+}
+
+.post-text {
+	padding-left: 100px
+}
 
 
 #markdown-toc{
@@ -208,7 +218,7 @@
 
 
 .post-content {
-	p { padding:$spacing-unit/5 0; } 
+	p { padding:0 0; } 
 
 	h1 {
 		font-size: 28px;

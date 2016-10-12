@@ -32,7 +32,7 @@ h1, h2, h3, h4,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 3;
 }
 
 
@@ -113,7 +113,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: $spacing-unit*2;
 }
 
 li {
@@ -311,7 +311,8 @@ table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
  */
 
 hr{
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+  margin-top: 15px;
   border: 0;
   border-bottom: 1px dotted #ccc;
 }
