@@ -218,7 +218,15 @@
 
 
 .post-content {
-	p { padding:0 0; }
+	p { 
+		padding:5px 0;
+	}
+
+	img {
+		width: 480px;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+	}
 
 	h1 {
 		font-size: 28px;
