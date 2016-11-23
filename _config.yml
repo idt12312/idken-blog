@@ -8,6 +8,7 @@ keywords: "id-ken, electronics, robot"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://idken.net" # the base hostname & protocol for your site
 locale: en_US
+permalink: /posts/:year-:month-:day-:title/
 
 ### Personal info and site tools info:
 twitter_username: idt12312
