@@ -1,27 +1,21 @@
 ---
 layout: page
 title: About
-comments: yes
+comments: false
 permalink: /about/
 ---
+# 自己紹介
+電子工作・ロボット・プログラミングに興味のある大学生です。  
+とにかく自分で手を動かしてものを作るのが大好きです。  
+[ロボット技術研究会](https://www.rogiken.org)というサークルに所属をしています。
 
+* Email : idossr12312[α]gmail.com
+* GitHub : [idt12312](https://github.com/idt12312)
+* Twitter : [@idt12312](https://twitter.com/idt12312)
 
-### Freshman21 is a Jekyll theme.
+# このブログについて
+基本的にはブログとして日常的な出来事や何かの制作過程を、
+[Works]({{ "/works" }})には作品として完成したものをまとめていこうと思います。  
 
-A tribute to Twenty Twelve and Twenty eleven.
-
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
-
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
-
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
-
-<img title="麋鹿" src="https://i.imgur.com/Mdc4szJl.jpg" alt="麋鹿" width="580" height="668" />
-
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-
-
+ちなみにこのブログはJekyllを使って作っています。  
+テーマとして[Freshman21](https://github.com/yulijia/freshman21)を元にしています。  
