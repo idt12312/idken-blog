@@ -3,7 +3,6 @@ layout: post
 title: MPLABXのプロジェクトをgitで管理
 category: 知見
 tag:
-    - pic
     - mplab
     - git
 comments: true

@@ -230,23 +230,24 @@
 
 	h1 {
 		font-size: 28px;
+		font-weight: bold;
 		margin-top: 1em;
 		margin-bottom: 0.5em;
 		padding: .2em 0 .3em .0em;
-		border-bottom: 5px double #ccc;
+		border-bottom: 5px double #aaa;
 	}
 
 	h2 {
 		font-size: 24px;
 		padding: .3em .0em;
-		border-bottom: 1.5px solid #ccc;
+		border-bottom: 2.0px solid #aaa;
 		margin-top: 0.8em;
 	}
 
 	h3 {
 		font-size: 20px;
 		padding-bottom: .2em;
-		border-bottom: 1.5px solid #ccc;
+		border-bottom: 1.5px solid #aaa;
 		display: inline-block;
 		margin-top: 0.5em;
 	}

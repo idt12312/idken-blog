@@ -10,13 +10,13 @@ permalink: /works/
 第37回全日本マイクロマウス大会のクラシック競技フレッシュマンクラスに出場。
 決勝に進出し、11位でした。
 
-<img src="/images/thumb_mouse_alljapan.png" style="width: 200px;">
+<img src="/images/mizuho.jpg" style="width: 300px;">
 
 # 玉乗りロボット:2号機(製作中)
 前作1号機の進化版です。
 オムニホイールを小さい1重のオムニホイールに変更し、全体的にスリムになっています。
 
-<img src="/images/tamanori_robot_overview.png" style="width: 200px;">
+<img src="/images/tamanori_robot_overview.png" style="width: 300px;">
 
 # マイクロマウス:探索アルゴリズム
 友人がマイクロマウスの2015年度大会に出場するので、探索部分だけ手伝いました。
@@ -36,6 +36,14 @@ MFT2015で展示。一時期流行ったパズルゲームです。
 <iframe width="500" height="315" src="https://www.youtube.com/embed/0m8Ng94H8lQ" frameborder="0" allowfullscreen></iframe>
 
 # 玉乗りロボット:1号機
+バスケットボールの上で玉乗りをします。
+youtubeで見た熊谷先生の玉乗りロボットに憧れて作りました。
+
+* [概要](http://titech-ssr.blog.jp/archives/3739685.html)
+* [制御回路](http://titech-ssr.blog.jp/archives/1000995129.html)
+* [機械工作](http://titech-ssr.blog.jp/archives/1002230098.html)
+* [制御について](http://titech-ssr.blog.jp/archives/1005228866.html)
+
 ![玉乗りロボット:1号機](/images/works_tamanori1.jpg)
 <iframe width="500" height="315" src="https://www.youtube.com/embed/-Y_EpmI2GxY" frameborder="0" allowfullscreen></iframe>
 
