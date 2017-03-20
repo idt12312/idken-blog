@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GithubのREADMEとかwikiで数式を書きたい
+title: GithubのREADMEとかwikiで数式を書く
 category: 知見
 tag:
     - Github
