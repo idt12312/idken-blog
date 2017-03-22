@@ -5,7 +5,7 @@ category: Eclipse
 tag:
     - Eclipse
 comments: true
-thumb: http://git.eclipse.org/c/equinox/rt.equinox.framework.git/plain/features/org.eclipse.equinox.executable.feature/library/win32/eclipse.ico
+thumb: /images/eclipse.ico
 ---
 Eclipse上でシリアルターミナルを動かす
 
