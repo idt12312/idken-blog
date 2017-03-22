@@ -51,8 +51,8 @@ ul, ol, dl, figure,
   max-width:         calc(#{$page-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit*2;
-  padding-left: $spacing-unit*2;
+  padding-right: $spacing-unit * 0.5;
+  padding-left: $spacing-unit * 0.5;
   padding-top:30px;
 
   background-color:#fff;
