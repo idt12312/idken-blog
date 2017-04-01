@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Jekyllの新しい記事を作るスクリプト
-category: 知見
+category: このブログについて
 tag:
     - jekyll
+    - シェルスクリプト
 comments: true
 thumb: https://jekyllrb-ja.github.io/img/logo-2x.png
 ---

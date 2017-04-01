@@ -4,7 +4,7 @@ title: 探索ができた
 category: マイクロマウス
 tag:
     - ロボット
-    - マイクロマウス
+    - MIZUHO
 comments: true
 thumb: /images/thumb_mouse_search.jpg
 ---

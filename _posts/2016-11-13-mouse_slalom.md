@@ -4,7 +4,7 @@ title: スラロームができた
 category: マイクロマウス
 tag:
     - ロボット
-    - マイクロマウス
+    - MIZUHO
 comments: true
 thumb: /images/thumb_mouse_slalom.jpg
 ---

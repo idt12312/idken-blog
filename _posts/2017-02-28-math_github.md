@@ -1,9 +1,10 @@
 ---
 layout: post
 title: GithubのREADMEとかwikiで数式を書く
-category: 知見
+category: Github
 tag:
     - Github
+    - Markdown
 comments: true
 thumb: https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png
 ---

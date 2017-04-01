@@ -4,6 +4,7 @@ title: KiCadでInventorの面データを読み込む
 category: KiCad
 tag:
     - KiCad
+    - Inventor
 comments: true
 thumb: https://raw.githubusercontent.com/KiCad/kicad-source-mirror/master/bitmaps_png/icons/icon_kicad.ico
 ---

@@ -4,6 +4,7 @@ title: Eclipse上でシリアルターミナルを使う
 category: Eclipse
 tag:
     - Eclipse
+    - マイコン
 comments: true
 thumb: /images/eclipse.ico
 ---

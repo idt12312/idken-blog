@@ -1,9 +1,9 @@
 ---
 layout: post
 title: MPLABXのプロジェクトをgitで管理
-category: 知見
+category: PIC
 tag:
-    - mplab
+    - マイコン
     - git
 comments: true
 thumb: http://www.microchip.com/images/default-source/development-tools/mplblgo.png

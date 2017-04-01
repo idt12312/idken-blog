@@ -4,7 +4,7 @@ title: マウス:全日本に出ます
 category: マイクロマウス
 tag:
     - ロボット
-    - マイクロマウス
+    - MIZUHO
 comments: true
 thumb: /images/thumb_mouse_cad.jpg
 ---

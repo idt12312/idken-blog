@@ -1,10 +1,11 @@
 ---
 layout: post
 title: C++でFreeRTOSのタスクをいい感じにつくる
-category: 知見
+category: FreeRTOS
 tag:
     - FreeRTOS
     - C++
+    - プログラミング
 comments: true
 thumb: http://www.freertos.org/logo.jpg
 ---
