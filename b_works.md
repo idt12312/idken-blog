@@ -3,16 +3,38 @@ layout: page
 title: Works
 permalink: /works/
 ---
-大学に入ってから作った(作っている)ものたちです。  
-各作品を説明するページをそのうちつくります。  
+大学に入ってから作った(作っている)ものたちです。
 
-# マイクロマウス:MIZUHO(製作中)
+
+# マイクロマウス:MIZUHOv2(製作中)
+マイクロマウスの2017年度の大会に向けて製作しているマシンです。
+MIZUHOの改良版です。
+
+![](/images/mizuhov2_front.jpg)
+
+[**MIZUHOv2の紹介記事**](http://idken.net/posts/2017-04-01-mizuhov2/)
+
+# B-ART
+UARTをBLEを使って無線化するモジュールです。
+4pinのピンヘッダがついているTypeP、USBでPCに挿せるTypeUの2Typeがあります。
+
+![](/images/bart_overview1.jpg)
+
+[**B-ARTの紹介記事**](http://idken.net/posts/2017-04-04-b-art/)
+
+[**Github:idt12312/B-ART**](https://github.com/idt12312/B-ART)
+
+# マイクロマウス:MIZUHO
 第37回全日本マイクロマウス大会のクラシック競技フレッシュマンクラスに出場。
 決勝に進出し、11位でした。
 
 <img src="/images/mizuho.jpg" style="width: 300px;">
 
-# 玉乗りロボット:2号機(製作中)
+基板データ・ファームウェアはこちら
+
+[**Github:idt12312/MIZUHO**](https://github.com/idt12312/MIZUHO)
+
+# 玉乗りロボット:2号機
 前作1号機の進化版です。
 オムニホイールを小さい1重のオムニホイールに変更し、全体的にスリムになっています。
 
@@ -20,9 +42,9 @@ permalink: /works/
 
 # マイクロマウス:探索アルゴリズム
 友人がマイクロマウスの2015年度大会に出場するので、探索部分だけ手伝いました。
-ソースは[github](https://github.com/idt12312/MazeSolver2015)で公開しています。  
+ソースは[Github](https://github.com/idt12312/MazeSolver2015)で公開しています。  
 
-[解説記事はこちら](http://titech-ssr.blog.jp/archives/1046800312.html)
+[**解説記事はこちら**](http://titech-ssr.blog.jp/archives/1046800312.html)
 
 <iframe width="500" height="315" src="https://www.youtube.com/embed/V0p6QD187bI" frameborder="0" allowfullscreen></iframe>
 
@@ -30,7 +52,7 @@ permalink: /works/
 MFT2015で展示。一時期流行ったパズルゲームです。
 本体を傾けるとそちらの方向にパネルが移動します。  
 
-[LEDで2048に関する記事](http://titech-ssr.blog.jp/archives/1035638533.html)
+[**LEDで2048の紹介記事**](http://titech-ssr.blog.jp/archives/1035638533.html)
 
 ![2048](/images/works_2048.jpg)
 <iframe width="500" height="315" src="https://www.youtube.com/embed/0m8Ng94H8lQ" frameborder="0" allowfullscreen></iframe>
@@ -39,26 +61,27 @@ MFT2015で展示。一時期流行ったパズルゲームです。
 バスケットボールの上で玉乗りをします。
 youtubeで見た熊谷先生の玉乗りロボットに憧れて作りました。
 
-* [概要](http://titech-ssr.blog.jp/archives/3739685.html)
-* [制御回路](http://titech-ssr.blog.jp/archives/1000995129.html)
-* [機械工作](http://titech-ssr.blog.jp/archives/1002230098.html)
-* [制御について](http://titech-ssr.blog.jp/archives/1005228866.html)
+* [**概要**](http://titech-ssr.blog.jp/archives/3739685.html)
+* [**制御回路**](http://titech-ssr.blog.jp/archives/1000995129.html)
+* [**機械工作**](http://titech-ssr.blog.jp/archives/1002230098.html)
+* [**制御について**](http://titech-ssr.blog.jp/archives/1005228866.html)
 
 ![玉乗りロボット:1号機](/images/works_tamanori1.jpg)
+
 <iframe width="500" height="315" src="https://www.youtube.com/embed/-Y_EpmI2GxY" frameborder="0" allowfullscreen></iframe>
 
 # トランジスタ時計
 MFT2014で展示。
-NAND計をMFT2013で展示していたら「トランジスタでやらないんですか???」と言われたため、 サークルの後輩を含めた4人で製作。  
-[トランジスタ時計に関する記事](http://titech-ssr.blog.jp/archives/1018020218.html)
+NAND計をMFT2013で展示していたら「トランジスタでやらないんですか???」と言われたため、 サークルの後輩を含めた4人で製作しました。  
+[**トランジスタ時計の紹介記事**](http://titech-ssr.blog.jp/archives/1018020218.html)
 
 <img src="/images/works_trans.jpg" style="width: 400px;">
 
 # Raspiミュージックサーバ
 部室で稼働していました。
 現在再生中の曲名をツイートもします。  
-[Raspiミュージックサーバに関する記事1](http://titech-ssr.blog.jp/archives/2236926.html)  
-[Raspiミュージックサーバに関する記事2](http://titech-ssr.blog.jp/archives/1018042125.html)  
+[**Raspiミュージックサーバの紹介記事1**](http://titech-ssr.blog.jp/archives/2236926.html)  
+[**Raspiミュージックサーバの紹介記事2**](http://titech-ssr.blog.jp/archives/1018042125.html)  
 ![Raspiミュージックサーバ](/images/works_music_server.jpg)
 
 # NAND計
