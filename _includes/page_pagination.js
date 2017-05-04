@@ -1,4 +1,3 @@
-<script src="{{ "/js/jquery-1.9.1.min.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
 $(function(){
   $(document).keydown(function(e) {
