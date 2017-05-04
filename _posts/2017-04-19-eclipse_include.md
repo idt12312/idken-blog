@@ -125,7 +125,7 @@ Import Settings...を押します。
 開いた画面で[Settings file]には先ほど生成したinclude_setting.xmlを選択し、
 include pathを設定したいプロジェクトと設定したいビルド(Debug, Releaseとか)を選択します。
 
-![](/images/eclipse_inc_import.png)
+![](/images/eclipse_inc_import.png){:data-action="zoom"}
 
 あとはFinishを押すとinclude pathが読み込まれます。
 

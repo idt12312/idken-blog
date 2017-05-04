@@ -22,7 +22,7 @@ thumb: /images/thumb_mouse_cad.jpg
 やはり自分で機体の製作からやりたいので、今年は自分で一つの機体を作って大会にでます。
 機体の名前はMIZUHOです。
 
-![](/images/mouse_inventor.jpg)
+![](/images/mouse_inventor.jpg){:data-action="zoom"}
 
 
 # 進捗
@@ -31,7 +31,7 @@ thumb: /images/thumb_mouse_cad.jpg
 
 機体の形はInvnetorで設計し、基板はKiCadで設計しています。
 
-![](/images/mouse_kicad.jpg)
+![](/images/mouse_kicad.jpg){:data-action="zoom"}
 
 マウンタは後輩が作ってくれました。(大感謝)
 

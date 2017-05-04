@@ -15,19 +15,19 @@ KiCadで階層シートを使っている状況でのアノテーション機能
 KiCadには部品番号を自動で振るアノテーション機能があります。
 設定画面でX方向Y方向どちらを優先するかを設定してやれば部品の配置に応じて番号を振ることができます。
 
-![](/images/kicad_annotation_config.png)
+![](/images/kicad_annotation_config.png){:data-action="zoom"}
 
 
 しかし、階層シートを使うと思った通りに部品に番号を触れない時があります。
 例えば次のような回路図(ファイル名はannotation.sch)があったとします。
 
-![](/images/kicad_annotation1.png)
+![](/images/kicad_annotation1.png){:data-action="zoom"}
 
 階層シートのルートになっていて、sub_sheet_A,B,Cを子に持っています。(わかりやすくするために子シートの中身も表示しています。)
 
 この状態でアノテーションを実行すると、次のように番号が振られます。
 
-![](/images/kicad_annotation2.png)
+![](/images/kicad_annotation2.png){:data-action="zoom"}
 
 大枠としてC->B->Aの順に番号が振られていることがわかると思います。
 アノテーションの設定でX,Yの優先をどう設定しても子シート内の番号の振り方が変わるのみで、
@@ -124,7 +124,7 @@ A->B->Cの順に参照しています。
 
 ファイルを編集後にアノテーションを実行するとこうなりました。
 
-![](/images/kicad_annotation3.png)
+![](/images/kicad_annotation3.png){:data-action="zoom"}
 
 実現したかった順に番号が振られています。
 

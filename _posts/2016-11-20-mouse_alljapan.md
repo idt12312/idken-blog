@@ -14,7 +14,7 @@ thumb: /images/thumb_mouse_alljapan.jpg
 
 結果から言うと、クラシック競技のフレッシュマンクラスに出場し、決勝で11位でした。
 
-![](/images/mouse_result.jpg)
+![](/images/mouse_result.jpg){:data-action="zoom"}
 
 決勝での動画はこちらにあります。
 
@@ -33,6 +33,6 @@ thumb: /images/thumb_mouse_alljapan.jpg
 
 来年はエキスパートクラスでMIZUHOをよろしくお願いします。
 
-![](/images/mouse_alljapan.jpg)
+![](/images/mouse_alljapan.jpg){:data-action="zoom"}
 
 

@@ -23,7 +23,7 @@ KiCadは基板の設計用ということで、まだ機械CADのような使い
 機械CADはInventorしか使えないので、モータやタイヤとの位置関係をみつつInventorで基板の外形を設計しました。
 こんな感じです。  
 
-![](/images/mouse_inventor.jpg)
+![](/images/mouse_inventor.jpg){:data-action="zoom"}
 
 しかし、その基板の外形データをKiCadに取り込む際に問題が起こりました。
 
@@ -36,11 +36,11 @@ KiCadは基板の設計用ということで、まだ機械CADのような使い
 
 Inventorからは次のように面を指定してdxfデータを出力することができます。
 
-![](/images/indentor_dxf.jpg)
+![](/images/indentor_dxf.jpg){:data-action="zoom"}
 
 こうして出力したdxfファイルをKiCadに直接取り込むとこんな感じになります。
 
-![](/images/dxf_kicad1.jpg)
+![](/images/dxf_kicad1.jpg){:data-action="zoom"}
 
 フィレットをつけていた部分が全て斜めの直線に置き換わり、カクカクになってしまいました。
 
@@ -65,7 +65,7 @@ OnShapeの出力するdxfファイルならうまく読みことができまし�
 OnShapeのUploadボタン的なものを押すとローカルのファイルを選ぶ画面がでるので、
 そこで基板の外形であるInventorの部品データ(.ipt)を選択し、uploadします。
 
-![](/images/import_ipt.jpg)
+![](/images/import_ipt.jpg){:data-action="zoom"}
 
 ## OnShapeでdxfファイルを出力
 Inventorのデータをuploadすると、Document内に新たな部品ができます。
@@ -73,13 +73,13 @@ Inventorのデータをuploadすると、Document内に新たな部品ができ�
 「Export as DXF/DWG..」を選択するとファイル形式を選ぶ画面になるので、
 DXFを選ぶとローカルにDXFファイルがダウンロードされます。
 
-![](/images/dxf_onshape.jpg)
+![](/images/dxf_onshape.jpg){:data-action="zoom"}
 
 ## KiCadでdxfファイルを読み込む
 KiCadのメニューの「File」->「Import」の中にdxfファイルを読み込む選択しがあると思うので、
 それを押します。
 開いた画面で先ほどダウンロードされたdxfファイルを選択すると基板データの中に取り込むことができます。  
 
-![](/images/dxf_kicad2.jpg)
+![](/images/dxf_kicad2.jpg){:data-action="zoom"}
 
 先ほどとは違って曲線がちゃんと曲線になっているのがわかると思います。

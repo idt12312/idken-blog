@@ -15,7 +15,7 @@ OpenOCDやJ-Link GDB Serverを使って、FreeRTOS上で動くすべてのタス
 FreeRTOSで動く複数のタスクをデバッグをするとき、
 下の画像のように全てのタスク(現在実行はされていないも含む)を同時に見たいですよね？
 
-![](/images/freertos_debug_0.png)
+![](/images/freertos_debug_0.png){:data-action="zoom"}
 
 ただ、それ用にOpenOCDやJ-Link GDB Serverを設定しないとこういうことはできないので、
 今回はその設定方法を紹介したいと思います。
@@ -149,13 +149,13 @@ int main()
 特に設定をせず、普通にOpenOCD+GDBでデバッグをしてみます。
 試しにTaskAにbreak pointを張ってTaskAを実行中に動作を一時停止すると、デバッガからはこんな感じで見えます。
 
-![](/images/freertos_debug_non.png)
+![](/images/freertos_debug_non.png){:data-action="zoom"}
 
 TaskAの内容は表示されるのですが、同時に実行中の他のタスクTaskB1,TaskB2(正確にはsuspend中)の情報は何も見えません。
 
 ところが後述する設定をするとこんな感じで、TaskAの実行中に動作を止めたのに他の起動中のタスクの状態(スタック内容など)も見ることができるようになります。
 
-![](/images/freertos_debug_1.png)
+![](/images/freertos_debug_1.png){:data-action="zoom"}
 
 画像中で表示されているタスク名は、xTaskCreateでタスクを生成した際に設定した文字列になっています。
 
@@ -166,9 +166,9 @@ TaskAの内容は表示されるのですが、同時に実行中の他のタス
 Eclipseのデバッグ画面からTaskB1を選択した場合とTaskB2を選択した場合で変数の内容が変わっています。
 画像中の下方のソースの表示はどちらも一緒なのに、右側のスタック変数の値が変わっています。
 
-![](/images/freertos_debug_21.png)
+![](/images/freertos_debug_21.png){:data-action="zoom"}
 
-![](/images/freertos_debug_22.png)
+![](/images/freertos_debug_22.png){:data-action="zoom"}
 
 このように引数を変えただけのタスクもきちんと区別をして、タスクのスタックを追ってくれるようになります。
 
@@ -199,7 +199,7 @@ openocd -s "xxx.cfg" -c "$_TARGETNAME configure -rtos FreeRTOS"
 のようにしてやることでも同じことができます。
 GNU ARM Eclipse Plug-insの"GDB OpenOCD Debugging"の設定は次のようにします。
 
-![](/images/freertos_openocd_config.png)
+![](/images/freertos_openocd_config.png){:data-action="zoom"}
 
 ## 2. ソース、リンカの設定
 もし古いバージョンのFreeRTOSを使っている場合はここまでの設定だけでOKなのですが、
@@ -225,7 +225,7 @@ uxTopUsedPriorityという変数は参照されてなくてもリンク時に削
 
 Eclipseではプロジェクトのプロパティから次のように設定することになります。
 
-![](/images/freertos_linker.png)
+![](/images/freertos_linker.png){:data-action="zoom"}
 
 
 ここまでの設定をすることでようやくOpenOCDでFreeRTOSの全てのタスクを同時に追えるようになります。
@@ -242,7 +242,7 @@ J-Link GDB Serverを使う場合もJ-Link GDB Serverの追加の設定が必要�
 を追加するだけです。
 EclipseのGNU ARM Eclipse Plug-insの"GDB SEGGER J-Link Debugging"の設定は次のようにします。
 
-![](/images/freertos_jlink_config.png)
+![](/images/freertos_jlink_config.png){:data-action="zoom"}
 
 
 # おわりに

@@ -25,11 +25,11 @@ GithubのREADMEやwikiで数式を書きたいことが多々ありますが、�
 
 [CODECOGS](https://www.codecogs.com/latex/eqneditor.php)
 
-![](/images/math_github_codecogs.png)
+![](/images/math_github_codecogs.png){:data-action="zoom"}
 
 見た目はTexclipなどと同じ感じですが、一番の違いは画面の下の方に数式の画像を出すためのURLを出してくれるところです。
 
-![](/images/math_github_url.png)
+![](/images/math_github_url.png){:data-action="zoom"}
 
 ここのURLをみるとすぐにわかると思うのですが、リクエストにtex記法での数式を書くと画像が返ってくるという仕組みになっています。
 なのでこのURLを画像としてmarkdown貼り付けてやれば数式を表示できます。

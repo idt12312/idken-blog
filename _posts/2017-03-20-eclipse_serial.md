@@ -20,7 +20,7 @@ Eclipse上でシリアルターミナルを動かす
 
 実際にやってみるとこんな感じになりました。
 
-![](/images/eclipse_serial_term0.png)
+![](/images/eclipse_serial_term0.png){:data-action="zoom"}
 
 それではこのようにEclipse上でシリアルターミナルを使用する方法を紹介したいと思います。
 
@@ -68,7 +68,7 @@ EclipseのバージョンがNEONでない場合はURLの最後の部分を自分
 [Mobile and Device Development] -> [TM Terminal]を選択します。
 (NEONでない場合は名前が変わっていて、"Target Management Terminal"や"TCF Terminal View"を選択します)
 
-![](/images/eclipse_serial_install1.png)
+![](/images/eclipse_serial_install1.png){:data-action="zoom"}
 
 [Next]を押すと色々表示されるので、確認しながらinstallを進めていきます。
 Eclipseの再起動を求められ、再起動をしたら完了です。
@@ -82,7 +82,7 @@ http://rxtx.qbang.org/eclipse
 
 しばらくすると出てくるpluginの候補のうち、新しそうな方だけを選択し、installをします。
 
-![](/images/eclipse_serial_install2.png)
+![](/images/eclipse_serial_install2.png){:data-action="zoom"}
 
 同様にしばらく待つとEclipseの再起動を求められるので、再起動をしたら完了です。
 
@@ -97,7 +97,7 @@ http://rxtx.qbang.org/eclipse
 
 するとEclipseの画面のどこかにTerminalが出てくるので、設定ボタンを押します。
 
-![](/images/eclipse_serial_term1.png)
+![](/images/eclipse_serial_term1.png){:data-action="zoom"}
 
 ここで通信の設定をします。
 
@@ -107,7 +107,7 @@ OKを押すと接続されて通信ができるようになります。
 
 赤い切断をするっぽいボタンを押すと通信を切断できます。
 
-![](/images/eclipse_serial_term2.png)
+![](/images/eclipse_serial_term2.png){:data-action="zoom"}
 
 
 # ちなみに

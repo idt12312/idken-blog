@@ -15,13 +15,13 @@ thumb: /images/thumb_dcdc.jpg
 # なんか電源が揺れてる
 玉乗りロボットのエンコーダのノイズと戦っていた時、エンコーダの信号をオシロでみるとこんな感じになっていました。
 
-![](/images/enc_sign.jpg)
+![](/images/enc_sign.jpg){:data-action="zoom"}
 
 玉乗りロボットの制御基板の電源がだめなのではと思い、
 エンコーダに電源を供給している5Vラインと、マイコンに電源を供給する3.3Vラインをオシロ(AnalogDiscovery)でみると
 特に5Vラインが揺れまくっていました。
 
-![](/images/dcdc_before.jpg)
+![](/images/dcdc_before.jpg){:data-action="zoom"}
 
 3.3V、5Vともに電源にはAP6502というICを中心に降圧のDC-DCコンバータを構成しています。
 オシロの写真をみると出力は150kHzくらいの大きな変化とと300kHzくらいの細かい振動が見られます。
@@ -38,12 +38,12 @@ DC-DCコンバータはスイッチングをしているので、どうしても
 
 電解コンデンサをセラミックコンデンサ(一般的に電解コンデンサよりもESRが低い)に交換しました。
 
-![](/images/dcdc.jpg)
+![](/images/dcdc.jpg){:data-action="zoom"}
 
 その結果、出力の揺れはかなり小さくなりました。
 
 
-![](/images/dcdc_after.jpg)
+![](/images/dcdc_after.jpg){:data-action="zoom"}
 
 
 # おわりに

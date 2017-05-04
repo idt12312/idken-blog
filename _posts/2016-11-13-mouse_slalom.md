@@ -21,7 +21,7 @@ thumb: /images/thumb_mouse_slalom.jpg
 
 ちなみに制御はこんな感じの2重ループで実装しています。
 
-![](/images/control.png)
+![](/images/control.png){:data-action="zoom"}
 
 目標位置を与えるとその位置に動くような制御をかけておき、
 目標位置を好きな軌道上で動かしてやることで軌道上を走らせるという仕組みです。
