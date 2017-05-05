@@ -6,6 +6,13 @@ permalink: /works/
 大学に入ってから作った(作っている)ものたちです。
 
 
+# 電子マネーの残金チェッカー
+suicaなどの電子マネーのカードをタッチすると、チャージされている金額を読み取って表示するデバイスです。
+
+![](/images/charge_checker.jpg){:data-action="zoom"}
+
+[**電子マネーの残金チェッカーの紹介記事**](http://idken.net/posts/2017-05-05-charge_checker/)
+
 # マイクロマウス:MIZUHOv2(製作中)
 マイクロマウスの2017年度の大会に向けて製作しているマシンです。
 MIZUHOの改良版です。
