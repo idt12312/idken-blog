@@ -27,9 +27,30 @@
 <link rel="stylesheet" type="text/css" href="{{ "/css/zoom.css" | prepend: site.baseurl }}">
 
 <script src="{{ "/js/jquery-1.9.1.min.js" | prepend: site.baseurl }}"></script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script src="{{ "/js/transition.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/zoom.js" | prepend: site.baseurl }}"></script>
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    displayAlign: "left",
+    displayIndent: "1em", 
+    tex2jax: {
+        processEscapes: true
+    },
+    CommonHTML: { 
+        matchFontHeight: false,
+        scale: 130
+    },
+    TeX: { 
+        equationNumbers: { 
+            autoNumber: "AMS" 
+        }
+    }
+});
+</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
 
 {% include google_search.js %}
 {% include google_analytics.js %}
