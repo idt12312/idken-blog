@@ -5,6 +5,20 @@ permalink: /works/
 ---
 大学に入ってから作った(作っている)ものたちです。
 
+# KURAMOTO
+蔵本モデルをLEDとマイコンを使って可視化した作品です。
+基板を繋げるとLEDの発光パターンが同期していきます。   
+MFT2017で展示をしていました。
+
+![](/images/kuramoto.jpg){:data-action="zoom"}
+
+紹介動画も作ってみました。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wogfamjA1L0" frameborder="0" allowfullscreen></iframe>
+
+[**KURAMOTOの紹介記事**](http://idken.net/posts/2017-08-02-kuramoto/)
+
+何に使えるかと何度か聞かれたのですが、これはアートです。
 
 # 電子マネーの残金チェッカー
 suicaなどの電子マネーのカードをタッチすると、チャージされている金額を読み取って表示するデバイスです。
