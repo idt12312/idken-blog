@@ -162,7 +162,7 @@ void ProfilerTimer_init()
 	TIM_TimeBaseInit(TIM6, &TIM_TimeBaseStructure);
 }
 
-uint32_t ProfilerTimer_start()
+void ProfilerTimer_start()
 {
 	TIM6->CNT = 0;
 	TIM_Cmd(TIM6, ENABLE);
