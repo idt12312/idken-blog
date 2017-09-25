@@ -70,7 +70,9 @@ Fusion360ではデータもすべてサーバー上にあり、それ生かし�
 共有の機能の一つで、Webページへ3Dモデルを埋め込む機能があります。
 出力されたHTMLの埋め込みコードを使うと↓のようになります。
 
+<div class="movie-wrap">
 <iframe src="https://myhub.autodesk360.com/ue28e573b/shares/public/SH7f1edQT22b515c761ed320f0e5e34e7ddb?mode=embed" width="480" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+</div>
 
 自分以外の人も3Dでぐるぐる回したりして見ることができます。
 

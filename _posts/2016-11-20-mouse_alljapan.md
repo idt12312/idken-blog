@@ -18,7 +18,9 @@ thumb: /images/thumb_mouse_alljapan.jpg
 
 決勝での動画はこちらにあります。
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="//www.youtube.com/embed/7Gr4R0Tlbhk?start=250" frameborder="0" allowfullscreen></iframe>
+</div>
 
 探索走行で一旦ゴールまで行くことが行くことができましたが、
 その後の追加の探索時にずれて壁を読んでしまい、途中で止まってしまいました。

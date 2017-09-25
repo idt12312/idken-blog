@@ -14,7 +14,9 @@ MFT2017で展示をしていました。
 
 紹介動画も作ってみました。
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wogfamjA1L0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [**KURAMOTOの紹介記事**](http://idken.net/posts/2017-08-02-kuramoto/)
 
@@ -67,7 +69,9 @@ UARTをBLEを使って無線化するモジュールです。
 
 [**解説記事はこちら**](http://titech-ssr.blog.jp/archives/1046800312.html)
 
+<div class="movie-wrap">
 <iframe width="500" height="315" src="https://www.youtube.com/embed/V0p6QD187bI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 # LEDで2048
 MFT2015で展示。一時期流行ったパズルゲームです。
@@ -76,7 +80,10 @@ MFT2015で展示。一時期流行ったパズルゲームです。
 [**LEDで2048の紹介記事**](http://titech-ssr.blog.jp/archives/1035638533.html)
 
 ![2048](/images/works_2048.jpg){:data-action="zoom"}
+
+<div class="movie-wrap">
 <iframe width="500" height="315" src="https://www.youtube.com/embed/0m8Ng94H8lQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 # 玉乗りロボット:1号機
 バスケットボールの上で玉乗りをします。
@@ -89,7 +96,9 @@ youtubeで見た熊谷先生の玉乗りロボットに憧れて作りました�
 
 ![玉乗りロボット:1号機](/images/works_tamanori1.jpg){:data-action="zoom"}
 
+<div class="movie-wrap">
 <iframe width="500" height="315" src="https://www.youtube.com/embed/-Y_EpmI2GxY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 # トランジスタ時計
 MFT2014で展示。

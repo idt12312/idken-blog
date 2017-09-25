@@ -17,7 +17,10 @@ suicaなどの電子マネーのカードをタッチすると、チャージさ
 ![](/images/charge_checker.jpg){:data-action="zoom"}
 
 実際に動いていている動画はこちらになります。  
+
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEz2cjugu6M" frameborder="0" allowfullscreen></iframe>
+</div>
 
 想定はしていませんでしたが、iPhoneのApple payもうまく動きました。
 iPhone側にも残金が表示されているので、このデバイスが正しい値を表示していることが分かります。  

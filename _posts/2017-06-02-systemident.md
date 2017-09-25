@@ -317,7 +317,9 @@ PC上で車体の並進回転速度を算出しています。
 この実験をしているときの動画はこんな感じです。
 ただ回転するだけです。
 
+<div class="movie-wrap">
 <iframe width="600" height="340" src="https://www.youtube.com/embed/65TFuSTDooY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 この実験によって得られた$$G_\Omega(s)$$のステップ応答に相当する回転速度の応答は以下の通りです。
 
@@ -513,7 +515,9 @@ M系列信号2周期分の実験を行います
 M系列信号を左右のモーターに同相で入力します。
 その時の動画はこちらになります。
 
+<div class="movie-wrap">
 <iframe width="600" height="340" src="https://www.youtube.com/embed/JpwMptHsmcM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 体育館の一角を借りて実験をしたのですが、床のほこりやテープが原因でよくスリップしています。
 並進のステップ応答をとった時と同様に、直進する制御などは入れていないので、どうしてもカーブしながら走ってしまいます。
@@ -532,7 +536,9 @@ M系列信号を左右のモーターに同相で入力します。
 M系列信号を左右のモーターに逆相(符号をお互いに逆にして)入力します。
 その時の動画はこちらになります。
 
+<div class="movie-wrap">
 <iframe width="600" height="340" src="https://www.youtube.com/embed/cwtdFd9g7kI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 回転方向はあまり動き回らないので楽です。
 この時の入出力をプロットしたものがこちらになります。

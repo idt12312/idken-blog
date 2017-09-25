@@ -13,7 +13,9 @@ thumb: /images/thumb_default.svg
 
 分かっていた問題をいくつか解決し、以前よりも安定して玉乗りだできるようになりました。
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM8yVMNuuPA" frameborder="0" allowfullscreen></iframe>
+</div>
 
 依然として座布団がないとどこかに行ってしまうので、座布団を敷いています。
 位置のフィードバックも入れているつもりなのですが、なんなんでしょうか。

@@ -13,7 +13,9 @@ thumb: /images/thumb_mouse_slalom.jpg
 
 ペリフェラル部分や制御の基礎部分を実装し終わり、スラローム走行ができるようになりました。  
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4nUVmx2mds" frameborder="0" allowfullscreen></iframe>
+</div>
 
 非常におそいですね。(マシンの速度も、進捗も)
 まだパラメータを詰めるということをしていないので、

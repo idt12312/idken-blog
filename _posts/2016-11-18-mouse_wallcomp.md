@@ -16,7 +16,9 @@ thumb: /images/thumb_mouse_wallcomp.jpg
 
 この補正を入れた状態で、壁に近い場所にマシンをおいてスタートさせた動画がこちらになります。
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TZQIa6gobQE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 最初はマシンが右によっている状態ですが、すぐに中心に戻って行くのが分かると思います。
 直線が数区画続いていればこんな感じで綺麗に補正がかかるのですが、

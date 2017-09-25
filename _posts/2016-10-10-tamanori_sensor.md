@@ -28,7 +28,9 @@ MFT2016で玉乗りロボットを展示していました。
 9軸センサの読み取りとMadgwickFilterの更新を200Hzから2kHzにスピードアップし、制御周期は今までと変わらず200Hzで
 動かして見るとこうなりました。  
 
+<div class="movie-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3wiDtsLZszQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 以前と比べてだいぶ揺れが小さくなっていることが分かると思います。
 さらに座布団のような結構な転がり摩擦が生まれるものでなく、
