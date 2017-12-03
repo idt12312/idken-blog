@@ -23,16 +23,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="783"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      id="namedview4852"
      showgrid="false"
-     inkscape:zoom="0.3337544"
-     inkscape:cx="466.65833"
-     inkscape:cy="561.0804"
-     inkscape:window-x="1076"
-     inkscape:window-y="297"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.944"
+     inkscape:cx="670.88718"
+     inkscape:cy="564.68871"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <defs
      id="defs2">
@@ -247,14 +247,14 @@
      inkscape:export-filename="C:\Users\idt12312\Documents\works\idken-blog\images\ident_control.png"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:1;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-       y="121.62155"
+       sodipodi:role="line"
+       id="tspan4656"
        x="95.771759"
-       id="tspan4565-8">位置</tspan><tspan
-       id="tspan4569-7"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:1;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
-       y="134.32155"
-       x="95.771759">コントローラ</tspan></text>
+       y="121.62155">軌道追従</tspan><tspan
+       sodipodi:role="line"
+       id="tspan4658"
+       x="95.771759"
+       y="134.32155">コントローラ</tspan></text>
   <rect
      y="105.83333"
      x="52.916668"
@@ -526,7 +526,7 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
        y="82.238991"
        x="27.748823"
-       id="tspan8999">車体の目標位置</tspan></text>
+       id="tspan8999">車体の目標軌道</tspan></text>
   <text
      id="text9005"
      y="82.379814"
