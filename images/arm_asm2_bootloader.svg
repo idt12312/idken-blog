@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="1000"
+   viewBox="0 0 423.33332 264.58334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="scb_vtor.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5536"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5534"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4959"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4941"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4947"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4935"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4953"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5536-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5534-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="741.08241"
+     inkscape:cy="509.6275"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="1192"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4487" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.830353"
+       y="19.420471"
+       id="text4592-9"><tspan
+         sodipodi:role="line"
+         id="tspan4590-7"
+         x="57.830353"
+         y="19.420471"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Bootloader実行中</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="271.3869"
+       y="18.620338"
+       id="text4592-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan4590-7-2"
+         x="271.3869"
+         y="18.620338"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Application実行中</tspan></text>
+    <rect
+       transform="translate(0,-32.416649)"
+       style="opacity:1;fill:#2962ff;fill-opacity:0.34934495;stroke:none;stroke-width:1.20000005;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6339-7"
+       width="158.75"
+       height="21.166666"
+       x="248.70833"
+       y="117.08332" />
+    <rect
+       transform="translate(0,-32.416649)"
+       style="opacity:1;fill:#d50000;fill-opacity:0.34934495;stroke:none;stroke-width:1.20000005;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6339"
+       width="158.75"
+       height="21.166666"
+       x="37.041668"
+       y="201.74998" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.41665)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.812498"
+       y="276.60706"
+       id="text4670-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan4668-1-1"
+         x="23.812498"
+         y="276.60706"
+         style="stroke-width:0.26458332">例外が発生すると....</tspan><tspan
+         sodipodi:role="line"
+         x="23.812498"
+         y="290.71817"
+         style="fill:#ff1744;stroke-width:0.26458332"
+         id="tspan4804">Bootloderの例外ハンドラに飛ぶ</tspan></text>
+    <g
+       id="g6199"
+       transform="translate(10.583337,3.3333334e-6)">
+      <rect
+         ry="0"
+         y="69.458313"
+         x="26.458334"
+         height="153.45834"
+         width="158.75"
+         id="rect4485"
+         style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#030000;stroke-width:1.83701992;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4491"
+         y="193.05653"
+         x="77.319748"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493"
+           style="stroke-width:0.26458332"
+           y="193.05653"
+           x="77.319748"
+           sodipodi:role="line">実行コード</tspan></text>
+      <text
+         id="text4491-6"
+         y="215.35712"
+         x="65.816193"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-7"
+           style="stroke-width:0.26458332"
+           y="215.35712"
+           x="65.816193"
+           sodipodi:role="line">ベクタテーブル</tspan></text>
+      <g
+         transform="translate(-116.41667,-15.875001)"
+         id="g4719">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#030000;stroke-width:1.11000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4588"
+           width="74.083336"
+           height="21.166666"
+           x="174.625"
+           y="249.37498" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="182.68059"
+           y="264.11603"
+           id="text4592"><tspan
+             sodipodi:role="line"
+             id="tspan4590"
+             x="182.68059"
+             y="264.11603"
+             style="stroke-width:0.26458332">SCB_VTOR</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3"
+         d="m 26.458333,164.70832 c 158.749997,0 158.749997,0 158.749997,0"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-5"
+         d="m 26.458332,201.74998 c 158.749998,0 158.749998,0 158.749998,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4491-50"
+         y="177.18153"
+         x="30.61607"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-5"
+           style="stroke-width:0.26458332"
+           y="177.18153"
+           x="30.61607"
+           sodipodi:role="line">Bootloader</tspan></text>
+      <text
+         id="text4491-7"
+         y="108.01189"
+         x="77.319748"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-8"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="108.01189"
+           x="77.319748"
+           sodipodi:role="line">実行コード</tspan></text>
+      <text
+         id="text4491-6-9"
+         y="132.20235"
+         x="65.816193"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-7-4"
+           style="stroke-width:0.26458332"
+           y="132.20235"
+           x="65.816193"
+           sodipodi:role="line">ベクタテーブル</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-6"
+         d="m 26.458333,80.04165 c 158.749997,0 158.749997,0 158.749997,0"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-5-1"
+         d="m 26.458338,117.08331 c 158.749992,0 158.749992,0 158.749992,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000001, 1.00000001;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4491-50-5"
+         y="91.380928"
+         x="29.10417"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-5-9"
+           style="stroke-width:0.26458332"
+           y="91.380928"
+           x="29.10417"
+           sodipodi:role="line">Application</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-6-2"
+         d="m 26.458332,138.24998 c 158.749998,0 158.749998,0 158.749998,0"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text4592-9-6-5"
+         y="63.032734"
+         x="13.985113"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="63.032734"
+           x="13.985113"
+           id="tspan4590-7-1-4"
+           sodipodi:role="line">Flash</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4930"
+         d="m 58.208333,244.08331 h -47.625 L 3.6666663e-8,244.08332 v -21.16667 0 L 21.166666,222.91665"
+         style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5536)" />
+    </g>
+    <g
+       id="g6199-4"
+       transform="translate(222.25)">
+      <rect
+         ry="0"
+         y="69.458313"
+         x="26.458334"
+         height="153.45834"
+         width="158.75"
+         id="rect4485-6"
+         style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#030000;stroke-width:1.83701992;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4491-9"
+         y="193.05653"
+         x="77.319748"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-0"
+           style="stroke-width:0.26458332"
+           y="193.05653"
+           x="77.319748"
+           sodipodi:role="line">実行コード</tspan></text>
+      <text
+         id="text4491-6-4"
+         y="215.35712"
+         x="65.816193"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-7-41"
+           style="stroke-width:0.26458332"
+           y="215.35712"
+           x="65.816193"
+           sodipodi:role="line">ベクタテーブル</tspan></text>
+      <g
+         transform="translate(-116.41667,-15.875001)"
+         id="g4719-8">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#030000;stroke-width:1.11000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4588-9"
+           width="74.083336"
+           height="21.166666"
+           x="174.625"
+           y="249.37498" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="182.68059"
+           y="264.11603"
+           id="text4592-8"><tspan
+             sodipodi:role="line"
+             id="tspan4590-2"
+             x="182.68059"
+             y="264.11603"
+             style="stroke-width:0.26458332">SCB_VTOR</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-0"
+         d="m 26.458333,164.70832 c 158.749997,0 158.749997,0 158.749997,0"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-5-0"
+         d="m 26.458332,201.74998 c 158.749998,0 158.749998,0 158.749998,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4491-50-1"
+         y="177.18153"
+         x="30.61607"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-5-6"
+           style="stroke-width:0.26458332"
+           y="177.18153"
+           x="30.61607"
+           sodipodi:role="line">Bootloader</tspan></text>
+      <text
+         id="text4491-7-5"
+         y="108.01189"
+         x="77.319748"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-8-4"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="108.01189"
+           x="77.319748"
+           sodipodi:role="line">実行コード</tspan></text>
+      <text
+         id="text4491-6-9-3"
+         y="132.20235"
+         x="65.816193"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-7-4-0"
+           style="stroke-width:0.26458332"
+           y="132.20235"
+           x="65.816193"
+           sodipodi:role="line">ベクタテーブル</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-6-8"
+         d="m 26.458333,80.04165 c 158.749997,0 158.749997,0 158.749997,0"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-5-1-5"
+         d="m 26.458338,117.08331 c 158.749992,0 158.749992,0 158.749992,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000001, 1.00000001;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4491-50-5-9"
+         y="91.380928"
+         x="29.10417"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4493-5-9-4"
+           style="stroke-width:0.26458332"
+           y="91.380928"
+           x="29.10417"
+           sodipodi:role="line">Application</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721-3-6-2-3"
+         d="m 26.458332,138.24998 c 158.749998,0 158.749998,0 158.749998,0"
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text4592-9-6-5-2"
+         y="63.032734"
+         x="13.985113"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="63.032734"
+           x="13.985113"
+           id="tspan4590-7-1-4-2"
+           sodipodi:role="line">Flash</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4930-2"
+         d="m 58.208333,244.08331 h -47.625 L 3.666668e-8,244.08332 V 222.91665 L 0,138.24998 h 21.166667"
+         style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5536-4)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="239.25893"
+       y="276.60706"
+       id="text4670-4-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan4668-1-1-2"
+         x="239.25893"
+         y="276.60706"
+         style="stroke-width:0.26458332">例外が発生すると....</tspan><tspan
+         sodipodi:role="line"
+         x="239.25893"
+         y="290.71817"
+         style="fill:#2962ff;stroke-width:0.26458332"
+         id="tspan4804-6">Applicationの例外ハンドラに飛ぶ</tspan></text>
+  </g>
+</svg>

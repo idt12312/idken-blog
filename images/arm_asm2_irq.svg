@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="900"
+   viewBox="0 0 370.41665 238.125"
+   version="1.1"
+   id="svg6790"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="arm_asm2_irq.svg">
+  <defs
+     id="defs6784" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="873.49562"
+     inkscape:cy="494.26607"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="1192"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7335" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6787">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-58.874984)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#000000;stroke-width:1.50000036;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7337"
+       width="158.75"
+       height="153.45839"
+       x="26.458328"
+       y="101.2083" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.80952"
+       y="120.10715"
+       id="text7341"><tspan
+         sodipodi:role="line"
+         id="tspan7339"
+         x="102.80952"
+         y="120.10715"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">ARM</tspan><tspan
+         sodipodi:role="line"
+         x="102.80952"
+         y="137.74603"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan7343">Cortex-M3 Core</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#000000;stroke-width:1.87082875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7337-4"
+       width="328.08334"
+       height="185.20837"
+       x="15.875"
+       y="90.624985" />
+    <g
+       id="g7454"
+       transform="translate(74.08334,68.7917)">
+      <rect
+         y="85.333313"
+         x="174.625"
+         height="21.16667"
+         width="74.083328"
+         id="rect7337-9"
+         style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#000000;stroke-width:1.1224972;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="5.2916379" />
+      <text
+         id="text7377"
+         y="100.07438"
+         x="194.99136"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="100.07438"
+           x="194.99136"
+           id="tspan7375"
+           sodipodi:role="line">UART</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="146.61723"
+       y="167.95915"
+       id="text7377-0"><tspan
+         sodipodi:role="line"
+         id="tspan7375-9"
+         x="146.61723"
+         y="167.95915"
+         style="stroke-width:0.26458332">IRQ#0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="147.95476"
+       y="199.89821"
+       id="text7377-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan7375-9-0"
+         x="147.95476"
+         y="199.89821"
+         style="stroke-width:0.26458332">IRQ#1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="146.843"
+       y="231.83727"
+       id="text7377-0-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan7375-9-0-4"
+         x="146.843"
+         y="231.83727"
+         style="stroke-width:0.26458332">IRQ#2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="20.032749"
+       y="80.419624"
+       id="text7377-1"><tspan
+         sodipodi:role="line"
+         id="tspan7375-8"
+         x="20.032749"
+         y="80.419624"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">マイコンの内部</tspan></text>
+    <g
+       transform="translate(153.45831,100.5417)"
+       id="g7512">
+      <rect
+         y="85.333313"
+         x="95.25"
+         height="21.16667"
+         width="74.083328"
+         id="rect7337-9-8"
+         style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#000000;stroke-width:1.1224972;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="5.2916379" />
+      <text
+         id="text7377-2"
+         y="100.07438"
+         x="112.7668"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="100.07438"
+           x="112.7668"
+           id="tspan7375-3"
+           sodipodi:role="line">TIMER</tspan></text>
+    </g>
+    <g
+       transform="translate(-63.499984,132.2917)"
+       id="g7512-2">
+      <g
+         transform="translate(-132.29167,3.0117187e-6)"
+         id="g7541">
+        <g
+           transform="translate(-137.58332,68.791665)"
+           id="g7546">
+          <rect
+             y="16.541645"
+             x="370.41666"
+             height="21.16667"
+             width="74.083328"
+             id="rect7337-9-8-8"
+             style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#000000;stroke-width:1.1224972;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             ry="5.2916374" />
+          <text
+             id="text7377-2-23"
+             y="30.426979"
+             x="384.47519"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="30.426979"
+               x="384.47519"
+               id="tspan7375-3-4"
+               sodipodi:role="line">SysTick</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g7454-1-1"
+       transform="translate(79.375002,137.58323)">
+      <g
+         id="g7507"
+         transform="translate(10.583338,-5.2916263)">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#000000;stroke-width:1.1224972;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7337-9-8-3"
+           width="74.083328"
+           height="21.16667"
+           x="158.75"
+           y="85.333313"
+           ry="5.2917337" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="182.63864"
+           y="100.07438"
+           id="text7377-2-2"><tspan
+             sodipodi:role="line"
+             id="tspan7375-3-6"
+             x="182.63864"
+             y="100.07438"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">ADC</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.20831,164.70825 c 63.5,0 63.5,0 63.5,0"
+       id="path7558"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.20831,196.45825 c 63.5,0 63.5,0 63.5,0"
+       id="path7558-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.20831,228.20825 c 63.5,0 63.5,0 63.5,0"
+       id="path7558-4-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="249.46437"
+       y="137.49409"
+       id="text7592"><tspan
+         sodipodi:role="line"
+         id="tspan7590"
+         x="249.46437"
+         y="137.49409"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Peripheral達</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="224.13995"
+       y="266.38394"
+       id="text7592-6"><tspan
+         sodipodi:role="line"
+         id="tspan7590-3"
+         x="224.13995"
+         y="266.38394"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">内部の割り込み線</tspan></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:0.34934495;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7612"
+       cx="222.25"
+       cy="199.10419"
+       rx="5.2916665"
+       ry="44.979168" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-241.56152"
+       y="139.92383"
+       id="text7592-6-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan7590-3-3"
+         x="-241.56152"
+         y="139.92383"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">外部割込みピン</tspan></text>
+  </g>
+</svg>
