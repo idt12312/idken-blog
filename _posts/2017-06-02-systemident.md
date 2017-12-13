@@ -4,7 +4,6 @@ title: マイクロマウスの機体を同定する
 category: マイクロマウス
 tag:
     - MIZUHOv2
-    - ロボット
     - 制御
 comments: true
 thumb: /images/thumb_mizuhov2.jpg

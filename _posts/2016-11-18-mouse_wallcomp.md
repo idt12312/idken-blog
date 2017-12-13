@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 壁補正を入れる
+title: 全日本前夜 壁補正を入れる
 category: マイクロマウス
 tag:
-    - ロボット
+    - マイクロマウス
     - MIZUHO
 comments: true
 thumb: /images/thumb_mouse_wallcomp.jpg

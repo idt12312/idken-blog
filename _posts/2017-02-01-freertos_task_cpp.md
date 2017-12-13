@@ -5,7 +5,6 @@ category: FreeRTOS
 tag:
     - FreeRTOS
     - C++
-    - プログラミング
 comments: true
 thumb: http://www.freertos.org/logo.jpg
 ---

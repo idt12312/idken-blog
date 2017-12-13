@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CMSIS DSPのarm_sin_f32とarm_cos_f32
-category: ARM
+category: マイコン
 tag:
     - マイコン
     - STM32

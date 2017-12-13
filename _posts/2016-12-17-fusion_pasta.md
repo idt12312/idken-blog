@@ -4,6 +4,7 @@ title: Fusion360と3Dプリンタを使う
 category: Fusion360
 tag:
     - Fusion360
+    - 3Dプリンタ
 comments: true
 thumb: /images/thumb_pasta.png
 ---

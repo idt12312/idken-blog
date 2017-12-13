@@ -4,7 +4,7 @@ title: 電子マネーの残金チェッカー
 category: 電子工作
 tag:
     - 電子工作
-    - pic
+    - PIC
 comments: true
 thumb: /images/thumb_charge_checker.jpg
 ---

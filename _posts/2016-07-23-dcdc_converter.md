@@ -3,7 +3,7 @@ layout: post
 title: DCDCコンバータの出力コンデンサ
 category: 電子工作
 tag:
-    - DC-DCコンバータ
+    - 電子工作
     - 玉乗りロボット
 comments: true
 thumb: /images/thumb_dcdc.jpg

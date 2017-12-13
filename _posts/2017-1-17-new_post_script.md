@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Jekyllの新しい記事を作るスクリプト
-category: このブログについて
+category: ソフトウェア
 tag:
+    - ソフトウェア
     - jekyll
     - シェルスクリプト
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: スラロームができた
+title: スラローム走行ができた
 category: マイクロマウス
 tag:
-    - ロボット
+    - マイクロマウス
     - MIZUHO
 comments: true
 thumb: /images/thumb_mouse_slalom.jpg

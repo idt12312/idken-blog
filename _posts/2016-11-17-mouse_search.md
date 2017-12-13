@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 探索ができた
+title: 探索走行ができた
 category: マイクロマウス
 tag:
-    - ロボット
+    - マイクロマウス
     - MIZUHO
 comments: true
 thumb: /images/thumb_mouse_search.jpg

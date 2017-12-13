@@ -1,10 +1,11 @@
 ---
 layout: post
-title: マウス:全日本に出ます
+title: 全日本2016に出ます
 category: マイクロマウス
 tag:
-    - ロボット
+    - マイクロマウス
     - MIZUHO
+    - イベント
 comments: true
 thumb: /images/thumb_mouse_cad.jpg
 ---

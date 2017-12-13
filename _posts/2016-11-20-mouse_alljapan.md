@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 全日本
+title: 全日本2016
 category: マイクロマウス
 tag:
-    - ロボット
+    - マイクロマウス
     - MIZUHO
+    - イベント
 comments: true
 thumb: /images/thumb_mouse_alljapan.jpg
 ---

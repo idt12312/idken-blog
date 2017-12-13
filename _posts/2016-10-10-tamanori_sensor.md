@@ -3,7 +3,6 @@ layout: post
 title: センサの応答速度を上げる
 category: 玉乗りロボット
 tag:
-    - ロボット
     - 玉乗りロボット
 comments: true
 thumb: /images/thumb_default.svg

@@ -5,6 +5,7 @@ category: FreeRTOS
 tag:
     - FreeRTOS
     - Eclipse
+    - マイコン
 comments: true
 thumb: http://www.freertos.org/logo.jpg
 ---

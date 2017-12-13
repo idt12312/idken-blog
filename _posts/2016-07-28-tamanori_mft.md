@@ -3,8 +3,8 @@ layout: post
 title: なんとか展示できるように
 category: 玉乗りロボット
 tag:
-    - ロボット
     - 玉乗りロボット
+    - イベント
 comments: true
 thumb: /images/thumb_default.svg
 ---
