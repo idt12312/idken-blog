@@ -62,5 +62,5 @@ kramdown:
 gems: 
   - jekyll-paginate
   - jekyll-seo-tag
-paginate: 10
+paginate: 13
 excerpt_separator: "\n\n"
