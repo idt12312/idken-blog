@@ -70,8 +70,8 @@ thumb: /images/thumb_mizuhov2.jpg
 ## 参考文献
 システム同定の基礎的なことについてはこの本に分かりやすくまとまっています。
 
-[**システム同定の基礎**](http://amzn.to/2uKrEVE)
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=idt12312-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4501114800&linkId=a2ef22a52a6d584032cbbee73f4f71bd"></iframe>
+<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4501114800/idt12312-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41UuhBR4OXL._SL160_.jpg" alt="システム同定の基礎" style="border: none;" /></a></div><div class="amazlet-info" style="line-height:120%; margin-bottom: 10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4501114800/idt12312-22/ref=nosim/" name="amazletlink" target="_blank">システム同定の基礎</a><div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 18.02.07</div></div><div class="amazlet-detail">足立 修一 <br />東京電機大学出版局 <br />売り上げランキング: 154,462<br /></div><div class="amazlet-sub-info" style="float: left;"><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4501114800/idt12312-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="amazlet-footer" style="clear: left"></div></div>
+
 
 システム論の基礎から同定手法の原理までMATLABのサンプル付きで紹介されています。
 私自身もシステム同定は何も知らない状態からこの本を読んで、実際に試してみてこの記事を書いています。
