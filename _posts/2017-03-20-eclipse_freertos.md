@@ -29,7 +29,7 @@ FreeRTOSで動く複数のタスクをデバッグをするとき、
 * Eclipse NEON.2 v4.6.2 + CDT
 * GNU ARM Eclipse Plug-ins v3.2.1
 * [arm-none-eabi 4.9.3 2015q3](https://launchpad.net/gcc-arm-embedded/+download)
-* [OpenOCD v0.10.0-201701241841](https://github.com/gnuarmeclipse/openocd/releases)
+* [OpenOCD v0.10.0-201701241841](https://github.com/gnu-mcu-eclipse/openocd/releases)
 * (J-Link GDB Server V6.12e)
 
 OpenOCDはGNU ARM Eclipse Plug-insと同じところがリリースしているものを使用しています。
@@ -212,7 +212,7 @@ FreeRTOSのv7.5.3以降はこの変数がなくなってしまいました。
 なのでOpenOCDの開発側は自分で"uxTopUsedPriority"を適切に定義してくれと言っています。
 uxTopUsedPriorityはここみたいに定義しておけばOKです。
 
-[OpenOCD FreeRTOS-openocd.c](https://github.com/gnuarmeclipse/openocd/blob/gnuarmeclipse-dev/contrib/rtos-helpers/FreeRTOS-openocd.c)
+[OpenOCD FreeRTOS-openocd.c](https://github.com/gnu-mcu-eclipse/openocd/blob/gnu-mcu-eclipse-dev/contrib/rtos-helpers/FreeRTOS-openocd.c)
 
 この内容をコピーしてmain.cなどに追加してもいいですし、プロジェクトに上記リンク先にある"FreeRTOS-openocd.c"を追加するのでもOKです。
 
