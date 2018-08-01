@@ -9,7 +9,7 @@ comments: true
 thumb: /images/thumb_default.svg
 ---
 以前PCやスマホのバックアップ用にQNAPのNASを購入しました。
-このNASではdcokerが利用できるので、その上にRedmineを入れて動かしてみました。
+このNASではDockerが利用できるので、その上にRedmineを入れて動かしてみました。
 
 
 # 家にあるNASについて
