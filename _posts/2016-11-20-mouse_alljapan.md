@@ -39,3 +39,8 @@ thumb: /images/thumb_mouse_alljapan.jpg
 ![](/images/mouse_alljapan.jpg){:data-action="zoom"}
 
 
+# MIZUHOの設計データ
+MZIUHOの回路やプログラムはGithubで公開しています。
+
+[**Github/idt12312/MIZUHO**](https://github.com/idt12312/MIZUHO)
+
