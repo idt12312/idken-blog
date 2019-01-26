@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="927.8446"
+   height="484.97235"
+   viewBox="0 0 245.49224 128.3156"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="stm32_cmake_mouse.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path899"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path893"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path899-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path899-3-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="491.2476"
+     inkscape:cy="289.28346"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4518"
+       originx="1.2468229"
+       originy="-20.05569" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.2468258,-148.62869)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.423943"
+       y="218.28874"
+       id="text823"><tspan
+         sodipodi:role="line"
+         id="tspan821"
+         x="68.423943"
+         y="218.28874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332">探索アルゴリズム</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.63700759"
+       y="235.32082"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="0.63700759"
+         y="235.32082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:0;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';text-align:start;text-anchor:start;stroke-width:0.26458332;fill:#808080">テスト用コード</tspan><tspan
+         sodipodi:role="line"
+         x="0.63700759"
+         y="248.54999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:0;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan847" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="137.2998"
+       y="179.18727"
+       id="text831"><tspan
+         sodipodi:role="line"
+         id="tspan829"
+         x="137.2998"
+         y="179.18727"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';text-align:start;text-anchor:start;stroke-width:0.26458332;fill:#808080">シミュレータ用コード</tspan><tspan
+         sodipodi:role="line"
+         x="137.2998"
+         y="192.41644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan845" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="174.89917"
+       y="239.02974"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="174.89917"
+         y="239.02974"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332;fill:#808080">マイコン用コード</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="120.35478"
+       y="159.57185"
+       id="text831-3"><tspan
+         sodipodi:role="line"
+         x="120.35478"
+         y="159.57185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan845-7">GUIシミュレータ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.812401"
+       y="273.77808"
+       id="text860"><tspan
+         sodipodi:role="line"
+         id="tspan858"
+         x="42.812401"
+         y="273.77808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332">テスト</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="141.76936"
+       y="273.98096"
+       id="text864"><tspan
+         sodipodi:role="line"
+         x="141.76936"
+         y="273.98096"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332"
+         id="tspan866">ファームウェア</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot878"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion880"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p'"><rect
+           id="rect882"
+           width="240"
+           height="60"
+           x="70"
+           y="370"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p'" /></flowRegion><flowPara
+         id="flowPara884" /></flowRoot>    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path886"
+       cx="119.06519"
+       cy="213.36749"
+       rx="62.433617"
+       ry="17.684132" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 119.06519,195.92915 -0.003,-31.22084"
+       id="path888"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5)"
+       d="M 84.666667,228.20831 63.5,259.95831"
+       id="path888-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5-6)"
+       d="m 154.78125,228.20831 18.52083,31.75"
+       id="path888-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.6393442"
+       y="245.16945"
+       id="text861"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="9.6393442"
+         y="245.16945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332;fill:#808080">Google Test</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="137.38608"
+       y="189.42546"
+       id="text865"><tspan
+         sodipodi:role="line"
+         id="tspan863"
+         x="137.38608"
+         y="189.42546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332;fill:#808080">Qt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="125.11012"
+       y="185.30803"
+       id="text869"><tspan
+         sodipodi:role="line"
+         id="tspan867"
+         x="125.11012"
+         y="185.30803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332;fill:#808080">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="163.4747"
+       y="240.11458"
+       id="text869-0"><tspan
+         sodipodi:role="line"
+         id="tspan867-8"
+         x="163.4747"
+         y="240.11458"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332;fill:#808080">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="61.79911"
+       y="240.49255"
+       id="text869-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan867-8-5"
+         x="61.79911"
+         y="240.49255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p';stroke-width:0.26458332;fill:#808080">+</tspan></text>
+  </g>
+</svg>
