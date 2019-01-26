@@ -59,7 +59,7 @@ markdown: kramdown
 kramdown:
         input: GFM
         syntax_highlighter: rouge
-gems: 
+plugins: 
   - jekyll-paginate
   - jekyll-seo-tag
 paginate: 13
