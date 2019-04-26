@@ -5,11 +5,10 @@ comments: false
 permalink: /about/
 ---
 # 自己紹介
-電子工作・ロボット・プログラミングに興味のある大学生です。  
-とにかく自分で手を動かしてなにかを作るのが大好きです。  
-[ロボット技術研究会](https://www.rogiken.org)というサークルに所属をしています。
+電子工作・ロボットなどを自分で作るのが好きな人です。    
+過去に[ロボット技術研究会](https://www.rogiken.org)というサークルに所属をしていました。
 
-* Email : idossr12312[α]gmail.com
+* Email : idt12312[α]gmail.com
 * GitHub : [idt12312](https://github.com/idt12312)
 * Twitter : [@idt12312](https://twitter.com/idt12312)
 
