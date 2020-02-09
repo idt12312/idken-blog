@@ -54,6 +54,8 @@ Blogroll:
 
 
 ### Build settings
+exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
+
 markdown: kramdown
 #highlighter: pygments
 kramdown:

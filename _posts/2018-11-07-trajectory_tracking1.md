@@ -138,23 +138,3 @@ $$(x_{r1}, y_{r1}, \theta_{r1}), (x_{r2}, y_{r2}, \theta_{r2}), \cdots$$
 
 続き：[独立二輪車型ロボットで目標軌道に追従する制御をする②](/posts/2018-11-07-trajectory_tracking2)
 
-
-## 参考資料
-軌道追従制御、特に以降で紹介する制御に関して情報を得るのに役立った資料です。
-
-[**1. Control of Wheeled Mobile Robots: An Experimental Overview**](https://link.springer.com/chapter/10.1007/3-540-45000-9_8)<br>
-これは[SpringerのRamsete:Articulated and Mobile Robotics for Services and Technologies](https://www.researchgate.net/publication/321620382_Ramsete_Articulated_and_Mobile_Robotics_for_Services_and_Technologies)
-という本の一つの章です。運良くResearchGateで無償公開されていました。
-以降出てくる、私自身がマイクロマウスの機体に実装している制御手法はこの文献に書いてあったものです。
-
-
-[**2. 三平研究室：講義資料**](http://www.sl.sc.e.titech.ac.jp/SCHP/tool.html)<br>
-微分幾何学に基づいた非線形制御理論についての基礎的な部分がまとめてある資料達です。
-学校の授業でこういう分野があることを知り、まずはこのあたりの資料を中心に勉強しました。
-
-[**3. A stable tracking control method for an autonomous mobile robot**](https://ieeexplore.ieee.org/document/126006)<br>
-話はそれますが、今回紹介する方法とは違った制御手法のものです。
-イメージもしやすく、安定性の証明も実装も非常に簡単なので最初はこの方法を使っていました。
-ただ、漸近安定までしか証明できないせいか、マイクロマウスではカーブ直後にどうしてもふらつくような感じがしたので使うのをやめてしまいました。
-パラメータがだめなだけだったかも知れないです。
-

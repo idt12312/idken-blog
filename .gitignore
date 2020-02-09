@@ -4,3 +4,4 @@ vendor/
 .bundle/
 *.lock
 .vscode/
+.jekyll-cache/
