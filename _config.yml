@@ -54,7 +54,7 @@ Blogroll:
 
 
 ### Build settings
-exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
+exclude: ['Gemfile', 'Gemfile.lock', 'vendor', 'docker-compose.yml', 'new_post']
 
 markdown: kramdown
 #highlighter: pygments
