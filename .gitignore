@@ -5,3 +5,4 @@ vendor/
 *.lock
 .vscode/
 .jekyll-cache/
+.jekyll-metadata
