@@ -5,7 +5,7 @@ comments: false
 permalink: /about/
 ---
 # 自己紹介
-電子工作・ロボットなどを自分で作るのが好きな人です。
+電子工作・ロボットなどを自分で作るのが好きです。
 
 * Email : idt12312[α]gmail.com
 * GitHub : [idt12312](https://github.com/idt12312)
