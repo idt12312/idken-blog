@@ -19,9 +19,9 @@ RIGOLのMSO5000シリーズのオシロをPythonから制御した例を紹介�
 Pythonを使ってMSO5000を制御するスクリプトを作ってみました。思ったより記事が長くなったので成果物だけをここに挙げておきます。
 
 * オシロのスクリーンキャプチャを画像データとして保存する
-    https://gist.github.com/idt12312/98f52c0b524b9cc5fbda9dfd84a3f421
+    [Gist idt12312/load_screen.py](https://gist.github.com/idt12312/98f52c0b524b9cc5fbda9dfd84a3f421)
 * オシロで取得した波形データをcsvファイルとして保存する
-    https://gist.github.com/idt12312/a9d9a600a100b7d0ad121114d1d4cf5d
+    [Gist idt12312/save_as_csv.py](https://gist.github.com/idt12312/a9d9a600a100b7d0ad121114d1d4cf5d)
 
 
 ## オシロを買った
