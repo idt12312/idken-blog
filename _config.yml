@@ -17,7 +17,7 @@ disqus_shortname: idkenblog
 favicon:     "/images/id_icon.png"
 aboutme: 電子工作・ロボット、なにかをつくることが好きです.  # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/id_icon.png" # your photo.
-google_analytics_key: UA-76753401-1 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
