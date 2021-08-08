@@ -199,7 +199,7 @@ Springerの本が入手できていないので(高い!!)先見の明も得ら�
 
 # 実装してみた
 今作っているマイクロマウスのハーフサイズ競技用のマシンには、ここまでで紹介した軌道追従制御を実装しています。
-ちゃんと走っているので、この記事で紹介した方法は机上の空論ではないということです。
+ちゃんと走っているので、この記事で紹介した方法はある程度有用なものではないかと思います。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">マウス氏、速くなった <a href="https://t.co/Bvo8UNxJYn">pic.twitter.com/Bvo8UNxJYn</a></p>&mdash; id (@idt12312) <a href="https://twitter.com/idt12312/status/1055454766178828289?ref_src=twsrc%5Etfw">2018年10月25日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

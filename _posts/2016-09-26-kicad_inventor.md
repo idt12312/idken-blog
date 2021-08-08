@@ -6,7 +6,7 @@ tag:
     - KiCad
     - Inventor
 comments: true
-thumb: https://raw.githubusercontent.com/KiCad/kicad-source-mirror/master/bitmaps_png/icons/icon_kicad.ico
+thumb: /images/thumb_kicad.png
 ---
 Inventorで設計した面のデータをKiCadに読み込ませる方法について
 

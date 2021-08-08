@@ -7,7 +7,7 @@ tag:
     - Github
     - git
 comments: true
-thumb: https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png
+thumb: /images/thumb_github.png
 ---
 Githubで考える限り一番便利に数式を表示する方法
 

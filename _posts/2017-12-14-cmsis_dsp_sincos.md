@@ -6,7 +6,7 @@ tag:
     - マイコン
     - STM32
 comments: true
-thumb: /images/thumb_default.svg
+thumb: /images/thumb_stm32.jpg
 ---
 CMSIS DSPのarm_sin_f32とarm_cos_f32でハマった話と使用上の注意。
 

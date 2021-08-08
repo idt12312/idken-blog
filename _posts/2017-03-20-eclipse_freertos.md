@@ -7,7 +7,7 @@ tag:
     - Eclipse
     - マイコン
 comments: true
-thumb: http://www.freertos.org/logo.jpg
+thumb: /images/thumb_freertos.jpg
 ---
 OpenOCDやJ-Link GDB Serverを使って、FreeRTOS上で動くすべてのタスクをデバッガから同時に追う
 

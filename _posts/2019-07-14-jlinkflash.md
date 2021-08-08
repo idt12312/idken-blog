@@ -7,7 +7,7 @@ tag:
     - ARM
     - J-Link
 comments: true
-thumb: https://www.segger.com/typo3conf/ext/seggertemplate/Resources/Public/Images/segger-logo.svg
+thumb: /images/thumb_jlink.png
 ---
 J-Linkを使ってコマンド一発でマイコン(STM32)のFlashにプログラムを書き込む方法の紹介をします。
 

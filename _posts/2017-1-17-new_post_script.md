@@ -7,7 +7,7 @@ tag:
     - jekyll
     - シェルスクリプト
 comments: true
-thumb: https://jekyllrb-ja.github.io/img/logo-2x.png
+thumb: /images/thumb_jekyll.png
 ---
 Jekyllで新しい記事ファイルをテンプレートから作るスクリプトファイルを作ってみた
 

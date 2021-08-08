@@ -7,7 +7,7 @@ tag:
     - ARM
     - J-Link
 comments: true
-thumb: https://www.segger.com/typo3conf/ext/seggertemplate/Resources/Public/Images/segger-logo.svg
+thumb: /images/thumb_jlink.png
 ---
 J-Linkには仮想シリアルポートになる機能があることを知りました。
 その使い方を紹介したいと思います。

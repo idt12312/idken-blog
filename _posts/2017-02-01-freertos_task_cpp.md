@@ -6,7 +6,7 @@ tag:
     - FreeRTOS
     - C++
 comments: true
-thumb: http://www.freertos.org/logo.jpg
+thumb: /images/thumb_freertos.jpg
 ---
 FreeRTOSのタスクをC++のクラスの機能を使っていい感じにつくる話
 

@@ -6,7 +6,7 @@ tag:
     - FreeRTOS
     - マイコン
 comments: true
-thumb: http://www.freertos.org/logo.jpg
+thumb: /images/thumb_freertos.jpg
 ---
 FreeRTOS上で動作しているタスクのスタックサイズ、実行されていた時間を調べてみました。
 

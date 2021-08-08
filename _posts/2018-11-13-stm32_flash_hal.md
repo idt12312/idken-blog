@@ -6,7 +6,7 @@ tag:
     - マイコン
     - STM32
 comments: true
-thumb: /images/thumb_default.svg
+thumb: /images/thumb_stm32.jpg
 ---
 以前書いたSTM32のFlashにデータを保存する話のCubeMX+HALバージョンの話です。
 
