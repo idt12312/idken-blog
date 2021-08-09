@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KiCadのアノテーション
+title: KiCadの階層シートにおけるアノテーション
 category: KiCad
 tag:
     - KiCad
