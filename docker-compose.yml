@@ -8,3 +8,5 @@ services:
       - "./vendor/bundle:/usr/local/bundle"
     ports:
       - 4000:4000
+    environment:
+      - CHOKIDAR_USEPOLLING=true
