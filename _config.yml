@@ -61,6 +61,7 @@ markdown: kramdown
 kramdown:
         input: GFM
         syntax_highlighter: rouge
+        toc_levels: "1,2" 
 plugins: 
   - jekyll-paginate
   - jekyll-seo-tag

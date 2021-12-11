@@ -11,6 +11,9 @@ thumb: /images/thumb_mizuhov2.jpg
 マイクロマウスでずっと使っている壁センサについて紹介します。
 
 
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 # はじめに
 いつかブログに書こうと思っていた、マイクロマウスの壁センサについて紹介します。
 これは2016年に初めて作ったMIZUHOから使っているもので、ハーフサイズに出るようになった今でも部品やパラメータを変えつつ基本構成は同じまま使っている回路です。

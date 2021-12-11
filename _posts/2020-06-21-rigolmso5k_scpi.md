@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIGOL MSO5000 OscilloscopeをPythonから制御する
+title: RIGOL MSO5000 オシロをPythonから制御する
 category: 電子工作
 tag:
     - 電子工作
@@ -11,6 +11,9 @@ thumb: /images/thumb_rigol5k_photo.jpg
 RIGOLのMSO5000シリーズのオシロをPythonから制御した例を紹介します。
 
 
+
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
 
 # はじめに
 
