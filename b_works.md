@@ -6,6 +6,18 @@ permalink: /works/
 過去に作ったものたちです。
 
 
+# USB-DAC付きオーディオアンプ
+
+USB Audio Class 1.0に対応し、2ch 96kHz 24bitまで再生できます。
+負荷 8Ohmで5W x2chくらい出力できます。
+
+全体の制御はSTM32F446、DACはPCM1794Aを使っています。
+
+![](/images/usb_dac_amp_1.jpg){:data-action="zoom"}
+
+[**USB-DAC付きオーディオアンプの紹介記事**](/posts/2021-12-11-usbdacamp/)
+
+
 # 電子負荷
 20V 10Aまで使える電子負荷です。
 
