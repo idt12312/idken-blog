@@ -5,7 +5,7 @@ category: 電子工作
 tag:
     - 電子工作
 comments: true
-thumb: /images/injection_trans1.jpg
+thumb: /images/thumb_injection_trans.jpg
 ---
 電源などのフィードバック系のループゲインをオシロで測るための注入トランスを作りました。
 
